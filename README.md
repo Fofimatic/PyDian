@@ -92,7 +92,7 @@
 > >
 > > | Developer | GitHub | Role |
 > > |---|---|---|
-> > | Franklin Caza | [@franklincaza](https://github.com/franklincaza) | Creator & Lead Developer |
+> > | Franklin Ramirez Herazo | [@franklincaza](https://github.com/franklincaza) | Creator & Lead Developer |
 > >
 > > ---
 > >
